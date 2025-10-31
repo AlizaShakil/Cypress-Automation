@@ -5,4 +5,5 @@ The project implements the Page Object Model (POM) design pattern and utilizes c
 - High readability
 - Improved reusability
 - Easy maintainability of test scripts
+
 This project demonstrates a well-structured and scalable approach to UI test automation using modern Cypress best practices.
